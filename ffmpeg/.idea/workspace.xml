@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d02b28c3-e1ec-46b8-b527-51501e7d6a20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/androidTest/java/com/example/apptestpackagetest/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/java/com/example/apptestpackagetest/SpherePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/java/com/example/apptestpackagetest/SphereSurfaceView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/java/com/example/apptestpackagetest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/layout/activity_sphere_player.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apptestpackagetest/src/test/java/com/example/apptestpackagetest/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/async_decoder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/codec_context.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/decoder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/demuxer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/ffmpeg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/format_context.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/frame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/muxer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/packet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/sws_context.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/cpp/ffmpeg/util.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apptest/src/main/java/com/example/apptest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apptest/src/main/java/com/example/apptest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kPSK5dHniXBbPhTWRbh6goNFyT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d02b28c3-e1ec-46b8-b527-51501e7d6a20" name="Default Changelist" comment="" />
+      <created>1605600667009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605600667009</updated>
+    </task>
+    <servers />
+  </component>
+</project>
